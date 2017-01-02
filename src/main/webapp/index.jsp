@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello World pgh,这是我的第一测试 hi
+Hello World pgh!
 </body>
 </html>
